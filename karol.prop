@@ -1,0 +1,25 @@
+#Einstellungen RobotKarol Version3.0
+#Tue Sep 25 23:30:12 CEST 2018
+Karol.MaxJump=1
+Karol.MaxBrick=20
+Karol.Delay=100
+Karol.BrickStart=0
+Karol.BrickControl=false
+Program.OpenPath=Beispiele
+Program.RestoreWorld=false
+Program.FixProperties=false
+Program.ScrollOnStep=false
+Program.StopOnError=true
+Program.HintOnError=false
+Editor.FormatToken=true
+Editor.LineNumbers=false
+Editor.ColorParam=ffc00000
+Editor.ColorNum=ffff0000
+Editor.ColorComment=ff6d6d6d
+Editor.ColorAnwBed=ff0000ff
+Editor.ColorKeyWord=ff000000
+Editor.ColorIdent=ff008000
+Editor.TabLen=2
+Editor.ColorKarol=ffff8c00
+Editor.FontSize=13
+Version=3.0
